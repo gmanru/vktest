@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vktest/static/css/main.981f7211.chunk.css",
+    "main.js": "/vktest/static/js/main.b3bc8537.chunk.js",
+    "main.js.map": "/vktest/static/js/main.b3bc8537.chunk.js.map",
+    "runtime-main.js": "/vktest/static/js/runtime-main.d14eb824.js",
+    "runtime-main.js.map": "/vktest/static/js/runtime-main.d14eb824.js.map",
+    "static/css/2.6bab1db4.chunk.css": "/vktest/static/css/2.6bab1db4.chunk.css",
+    "static/js/2.6d371c2b.chunk.js": "/vktest/static/js/2.6d371c2b.chunk.js",
+    "static/js/2.6d371c2b.chunk.js.map": "/vktest/static/js/2.6d371c2b.chunk.js.map",
+    "index.html": "/vktest/index.html",
+    "precache-manifest.db1f6295054ab9307bbc1e3278620478.js": "/vktest/precache-manifest.db1f6295054ab9307bbc1e3278620478.js",
+    "service-worker.js": "/vktest/service-worker.js",
+    "static/css/2.6bab1db4.chunk.css.map": "/vktest/static/css/2.6bab1db4.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/vktest/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.6d371c2b.chunk.js.LICENSE.txt": "/vktest/static/js/2.6d371c2b.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/vktest/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d14eb824.js",
+    "static/css/2.6bab1db4.chunk.css",
+    "static/js/2.6d371c2b.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.b3bc8537.chunk.js"
+  ]
+}
